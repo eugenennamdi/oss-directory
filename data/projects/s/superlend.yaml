@@ -1,0 +1,13 @@
+version: 7
+name: superlend
+display_name: Superlend
+description: Save, borrow, and earn in DeFi—easily. The onchain app for smarter finance. 350+ markets, 15+ chains, one simple experience.
+websites:
+- url: https://www.superlend.xyz/
+- url: https://app.superlend.xyz/
+- url: https://markets.superlend.xyz/
+- url: https://funds.superlend.xyz/
+github:
+- url: https://github.com/Superlend
+defillama:
+- url: https://defillama.com/protocol/superlend
